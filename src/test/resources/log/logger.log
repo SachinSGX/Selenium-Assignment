@@ -1,0 +1,324 @@
+2024-02-03 00:27:13  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 00:27:13  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 00:27:13  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 00:27:15  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 00:27:15  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 00:28:26  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 00:38:31  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 00:38:31  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 00:38:31  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 00:38:34  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 00:38:34  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 00:39:44  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 04:12:49  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 04:12:49  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 04:12:49  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 04:13:00  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 04:13:00  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 04:14:13  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 04:14:13  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 04:14:13  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 04:14:19  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 04:14:19  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 04:15:08  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 04:16:11  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 04:16:11  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 04:16:11  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 04:16:14  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 04:16:14  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 04:16:57  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 04:18:32  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 04:18:32  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 04:18:32  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 04:18:35  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 04:18:35  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 04:18:58  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 04:19:50  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 04:19:50  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 04:19:50  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 04:19:53  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 04:19:53  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 04:20:54  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:16:21  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:16:21  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:16:21  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:16:24  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:16:24  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:17:13  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:20:16  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:20:16  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:20:16  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:20:17  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:20:17  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:21:10  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:23:43  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:23:43  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:23:43  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:23:45  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:23:45  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:24:33  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:27:08  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:27:08  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:27:08  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:27:10  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:27:10  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:28:01  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:32:57  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:32:57  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:32:57  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:33:00  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:33:00  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:33:54  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-03 23:34:34  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-03 23:34:34  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-03 23:34:34  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-03 23:34:35  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-03 23:34:35  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-03 23:35:28  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-04 00:32:13  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-04 00:32:13  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-04 00:32:13  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-04 00:32:15  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-04 00:32:15  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-04 00:33:46  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-04 21:37:40  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-04 21:37:41  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-04 21:37:41  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-04 21:37:43  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-04 21:37:43  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-04 21:46:01  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-04 21:46:01  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-04 21:46:01  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-04 21:46:03  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-04 21:46:03  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-04 21:46:58  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-04 22:21:55  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-04 22:21:55  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-04 22:21:55  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-04 22:21:57  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-04 22:21:57  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-04 22:22:52  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-04 23:52:17  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-04 23:52:17  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-04 23:52:17  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-04 23:52:19  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-04 23:52:19  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-04 23:53:16  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 17:05:22  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 17:05:22  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 17:05:22  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 17:05:24  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 17:05:25  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 17:06:24  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 17:10:54  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 17:10:54  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 17:10:54  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 17:10:56  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 17:10:56  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 17:11:53  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 17:24:12  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 17:24:12  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 17:24:12  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 17:24:15  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 17:24:15  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 17:24:25  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 17:28:03  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 17:28:04  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 17:28:04  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 17:28:06  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 17:28:06  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 17:28:26  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 17:54:31  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 17:54:31  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 17:54:31  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 17:54:33  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 17:54:33  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 17:54:43  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:02:01  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:02:01  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:02:01  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:02:03  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:02:04  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:02:17  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:04:04  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:04:04  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:04:04  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:04:06  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:04:06  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:04:18  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:23:41  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:23:41  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:23:41  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:23:43  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:23:43  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:23:54  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:26:03  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:26:03  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:26:03  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:26:06  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:26:06  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:26:18  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:32:19  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:32:19  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:32:19  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:32:20  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:32:20  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:32:31  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:33:39  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:33:39  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:33:39  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:33:41  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:33:41  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:33:52  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:36:36  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:36:36  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:36:36  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:36:38  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:36:39  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:37:04  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:37:44  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:37:44  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:37:44  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:37:46  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:37:46  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:38:17  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:50:13  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:50:13  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:50:13  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:50:15  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:50:15  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:54:21  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:54:21  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:54:21  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:54:23  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:54:23  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 18:54:57  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 18:58:10  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 18:58:10  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 18:58:10  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 18:58:12  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 18:58:12  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:05:38  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:05:38  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:05:38  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:05:40  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:05:40  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:06:01  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:09:06  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:09:06  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:09:06  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:09:08  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:09:08  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:09:30  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:10:05  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:10:05  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:10:05  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:10:07  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:10:07  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:10:48  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:15:33  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:15:33  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:15:33  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:15:35  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:15:35  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:15:47  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:16:09  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:16:09  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:16:09  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:16:11  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:16:11  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:16:32  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:22:04  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:22:04  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:22:04  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:22:06  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:22:06  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:22:26  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-09 19:22:47  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-09 19:22:47  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-09 19:22:47  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-09 19:22:50  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-09 19:22:50  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-09 19:23:49  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-16 10:36:07  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-16 10:36:07  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-16 10:36:07  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-16 10:36:10  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-16 10:36:11  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-16 10:38:22  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-16 10:38:22  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-16 10:38:22  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-16 10:38:24  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-16 10:38:25  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-16 10:40:53  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-16 10:40:53  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-16 10:40:53  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-16 10:40:55  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-16 10:40:55  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-16 10:41:56  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 21:47:18  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 21:47:18  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 21:47:18  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 21:47:26  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 21:47:27  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 21:47:39  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 21:51:38  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 21:51:38  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 21:51:38  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 21:51:40  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 21:51:40  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 21:52:27  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 21:52:43  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 21:52:43  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 21:52:43  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 21:52:46  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 21:52:46  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 21:53:15  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 21:56:37  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 21:56:37  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 21:56:37  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 21:56:39  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 21:56:39  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 21:57:06  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 21:59:01  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 21:59:01  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 21:59:01  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 21:59:03  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 21:59:03  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 21:59:31  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 22:04:05  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 22:04:05  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 22:04:05  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 22:04:07  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 22:04:07  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 22:04:38  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 22:50:32  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 22:50:32  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 22:50:32  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 22:50:35  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 22:50:35  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 22:51:41  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 23:02:58  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 23:02:58  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 23:02:58  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 23:03:00  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 23:03:00  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 23:04:05  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 23:06:19  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 23:06:19  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 23:06:19  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 23:06:21  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 23:06:22  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 23:06:55  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 23:08:15  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 23:08:15  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 23:08:15  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 23:08:18  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 23:08:19  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 23:08:41  [com.training.template.util.BaseTestObject] (main:) closing browser
+2024-02-23 23:10:19  [com.training.template.util.BaseTestObject] (main:) Loading environment data from /testdata/dev_data.properties
+2024-02-23 23:10:19  [com.training.template.util.BaseTestObject] (main:) Creating browser
+2024-02-23 23:10:19  [com.training.template.util.BaseTestObject] (main:) Setting web driver
+2024-02-23 23:10:21  [com.training.template.util.BaseTestObject] (main:) Driver was set
+2024-02-23 23:10:21  [com.training.template.util.BaseTestObject] (main:) Browser was created
+2024-02-23 23:10:54  [com.training.template.util.BaseTestObject] (main:) closing browser
